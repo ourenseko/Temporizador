@@ -1,2 +1,2 @@
 # Temporizador
-Configura un apagado en un lapso de tiempo
+Configura un apagado o programa en un lapso de tiempo
