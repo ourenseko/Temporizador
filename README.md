@@ -4,9 +4,9 @@ Configura un apagado o programa en un lapso de tiempo
 
 Fix it:
 
--no ejecuta cmd
+-no ejecuta comandos cmd 
 -implementar bucle
--no redimension de la ventana
+
 
 
 Preview:
