@@ -15,6 +15,6 @@ Errores:
 
 -Animación del temporizador limitada a 24h
 
--No lanza programas temporizados (Desavilitado)
+-No lanza programas temporizados (Desabilitado)
 
 -Implementar bucle en lanzador
