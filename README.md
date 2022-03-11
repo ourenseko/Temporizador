@@ -3,10 +3,9 @@ Configura un apagado o programa en un lapso de tiempo
 
 
 Fix it:
-
--no ejecuta comandos cmd 
--implementar bucle
-
+-No lanza start 
+-Implementar bucle
+-Aumentar la viasualización a más de 24h
 
 
 Preview:
