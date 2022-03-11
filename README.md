@@ -11,10 +11,10 @@ Preview:
 
 
 
-Errores:
+Notas:
 
 -Animación del temporizador limitada a 24h
 
 -No lanza programas temporizados (Obción ocultada)
 
--Implementar bucle en lanzador
+-Implementacióm incompleta del bucle en el lanzador de programas
