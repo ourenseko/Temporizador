@@ -1,7 +1,7 @@
 # Temporizador
 Configura un apagado o programa en un lapso de tiempo
 
-Download: https://github.com/ourenseko/Temporizador/raw/main/dist/temporizadorShutdown.jar
+Descargar: https://github.com/ourenseko/Temporizador/raw/main/dist/temporizadorShutdown.jar
 
 
 Preview: (Se necesita Java)
