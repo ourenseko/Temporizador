@@ -1,4 +1,4 @@
-# Temporizador
+# KAS10: Programador de tareas
 Configura un apagado o programa en un lapso de tiempo
 
 Descargar: https://github.com/ourenseko/Temporizador/raw/main/dist/temporizadorShutdown.jar
